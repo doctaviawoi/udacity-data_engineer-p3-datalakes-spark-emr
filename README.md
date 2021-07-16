@@ -2,7 +2,7 @@
 
 ### Project 3: Data Lakes with Spark on Amazon EMR
 
-![Pyspark AWS EMR logo](images/pyspark_emr.png "Pyspark EMR logo")
+![Pyspark AWS EMR logo](images/pyspark_emr.PNG "Pyspark EMR logo")
 
 #### Table of contents
 
@@ -277,7 +277,7 @@ Songs and event logs datasets in JSON format are read from S3 and saved as its o
 
 #### Summary information of the tables
 The summary information of each table created is as follow:  
-![table_info](images/1_tables_info.png "Tables summary info")
+![table_info](images/1_tables_info.PNG "Tables summary info")
 
 
 <div id="example-queries"></div>
@@ -287,7 +287,7 @@ The summary information of each table created is as follow:
 Below are screenshots of some of the SQL queries:  
 
 ***Top 10 most-listened-to artists in November 2018***  
-![Example queries 1](images/2_top10_artists_Nov2018.png "Top 10 artists in November 2018")
+![Example queries 1](images/2_top10_artists_Nov2018.PNG "Top 10 artists in November 2018")
 
 ***Top 10 most-listened-to songs in November 2018***  
-![Example queries 2](images/3_top10_songs_Nov2018.png "Top 10 hit songs in November 2018")
+![Example queries 2](images/3_top10_songs_Nov2018.PNG "Top 10 hit songs in November 2018")
