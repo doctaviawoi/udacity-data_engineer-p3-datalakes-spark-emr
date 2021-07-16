@@ -2,7 +2,7 @@
 
 ### Project 3: Data Lakes with Spark on Amazon EMR
 
-![Pyspark AWS EMR logo](images/pyspark_emr.PNG "Pyspark EMR logo")
+![Pyspark AWS EMR logo](images/pyspark_emr.png "Pyspark EMR logo")
 
 #### Table of contents
 
